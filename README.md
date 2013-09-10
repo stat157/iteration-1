@@ -2,8 +2,8 @@ iteration-1
 ===========
 Group: Chi-sq
 
-Sam Kirchner
-Sherry Xia
+Techinical Lead: Sam Kirchner
+Facilitator: Sherry Xia
 Jie Zhang
 Alisha Agrawal
 Chen Zhang
