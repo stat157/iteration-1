@@ -7,3 +7,4 @@ Ashley Sia
 Raymond Ma 
 Alyssa Parker
 David Lau
+Joy Chen
